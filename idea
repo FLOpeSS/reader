@@ -1,0 +1,10 @@
+So i basically want to build a voice reader that works on reading pdfs, both downloaded or on google.
+
+In black box theory would be like it:
+    pdf(text) -> computing - reading -> finish
+
+
+
+
+
+
